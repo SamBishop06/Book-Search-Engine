@@ -20,13 +20,15 @@ To install the application, begin by cloning the repository. Next, navigate to t
 Sign up to create an account, then search for your favorite books. Save the ones you like and access detailed information about them whenever you need.
 
 ## Screenshots
-![Alt text](<homepage-bookserach.png 11-55-55-760.png>)
+![Alt text](<photo/homepage-bookserach.png 11-55-55-760.png>)
 
-![Alt text](<login-book-search.png 11-55-53-405.png>)
+![Alt text](<photo/login-book-search.png 11-55-53-405.png>)
 
-![Alt text](<signin-bookserach.png 11-55-47-059-1.png>)
+![Alt text](<photo/signin-bookserach.png 11-55-47-059-1.png>)
 
-![Alt text](<bookserac-bookserach.png 11-55-58-515.png>)
+![Alt text](<photo/bookserac-bookserach.png 11-55-58-515.png>)
+
+
 
 ## Deployed Application
 https://book-search-engine-fa4b.onrender.com
